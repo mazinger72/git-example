@@ -1,2 +1,2 @@
 # git-example
-Adding some changes
+This is a new line
